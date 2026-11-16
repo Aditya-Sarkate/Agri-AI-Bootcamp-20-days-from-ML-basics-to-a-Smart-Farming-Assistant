@@ -1,14 +1,14 @@
-# Day 1 - Foundations of ML & Math Essentials: What I Learned
+Day 1 - Foundations of ML & Math Essentials: What I Learned
 
 Nov 16, 2026 Aditya Sarkate
 
-## Core idea: supervised learning
+Core idea: supervised learning
 
 Supervised learning learns a mapping from inputs (features) to known answers (labels).
 
 We hold data back for validation and testing, so the score reflects unseen seasons, not memorised ones.
 
-## Math: mean, variance and standard deviation
+Math: mean, variance and standard deviation
 
 - **Mean:** the average yield, in t/ha.
 - **Variance:** how far yields spread from the mean, on average, squared.
